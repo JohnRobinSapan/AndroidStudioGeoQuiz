@@ -6,15 +6,16 @@
     <string name="prev_button">Prev</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
-    <string name="question_australia">Canberra is the capital of Australia.</string>
-    <string name="question_oceans">The Pacific Ocean is larger than
+    <string name="question_australia">1. Canberra is the capital of Australia.</string>
+    <string name="question_oceans">2. The Pacific Ocean is larger than
   the Atlantic Ocean.</string>
-    <string name="question_mideast">The Suez Canal connects the Red Sea
+    <string name="question_mideast">3. The Suez Canal connects the Red Sea
   and the Indian Ocean.</string>
-    <string name="question_africa">The source of the Nile River is in Egypt.</string>
-    <string name="question_americas">The Amazon River is the longest river
+    <string name="question_africa">4. The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">5. The Amazon River is the longest river
   in the Americas.</string>
-    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+    <string name="question_asia">6. Lake Baikal is the world\'s oldest and deepest
   freshwater lake.</string>
     <string name="geoImage">Image view for geo quiz</string>
+    <string name="quiz_results">%1$.2f%% You answered %2$d of %3$d correctly!</string>
 </resources>
