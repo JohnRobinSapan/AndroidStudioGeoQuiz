@@ -30,14 +30,12 @@
 
         <Button
             android:id="@+id/true_button"
-            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/true_button" />
 
         <Button
             android:id="@+id/false_button"
-            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/false_button" />
@@ -52,7 +50,6 @@
 
         <Button
             android:id="@+id/prev_button"
-            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/arrow_left"
@@ -61,7 +58,6 @@
 
         <Button
             android:id="@+id/next_button"
-            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/arrow_right"
